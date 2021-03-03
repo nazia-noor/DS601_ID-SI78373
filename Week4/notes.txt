@@ -1,7 +1,4 @@
-FakeDataGenerator
-add_name adds both name+lastname
-
 for analysis assignment, you were supposed to clean the data, it should not have the full url. It should only have the domain. 
 you did not answer about what you learned about the person by looking at his/her data
 
-70
+75
