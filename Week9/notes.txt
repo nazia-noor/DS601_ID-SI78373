@@ -1,0 +1,6 @@
+overall very good! 
+
+however imputation for the third dataset doesn't seem right.
+scatter plot shows that we introduced a clear pattern/bias to our data.
+
+100 (+5)
