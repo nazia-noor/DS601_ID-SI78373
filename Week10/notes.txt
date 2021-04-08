@@ -1,0 +1,3 @@
+myFileProcessor convention is to start with capitals for classes.
+
+100
