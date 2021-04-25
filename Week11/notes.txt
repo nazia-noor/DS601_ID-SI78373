@@ -1,0 +1,5 @@
+very cute! :) 
+
+only issue is nltk.corpus is not a module. nltk is the module
+
+98
